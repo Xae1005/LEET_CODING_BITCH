@@ -9,9 +9,8 @@ Explanation: The process is
 Since 2 has only one digit, return it.
 */
 //time complexity O(log n)
-/*the reason why the time complexity is O(log n) is that in each recursive call,
-the number of digits in the number decreases by 1, and 
-the maximum number of digits in a number n is log10(n).*/
+/*the reason why the time complexity is O(log n) is that loop ta cholche
+while num ta greater than 0 so ya.*/
 //this was my first leetcode problem yayyy im proud of myself :D
 //problem link: https://leetcode.com/problems/add-digits/description/
 
